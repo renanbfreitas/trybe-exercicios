@@ -28,7 +28,7 @@ ol li {
     font-weight: 700;
   }
   
-  #linguagens de programação li:not(:nth-child(n + 4)) {
+  #linguagens li:not(:nth-child(n + 4)) {
     color: blue;
   }
   

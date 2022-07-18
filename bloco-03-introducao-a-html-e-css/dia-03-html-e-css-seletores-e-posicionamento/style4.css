@@ -1,5 +1,6 @@
+
 div:hover {
-    border: 6px solid brown;
+    border: 8px solid brown;
   }
   
   div:nth-of-type(1) {
@@ -15,15 +16,16 @@ div:hover {
   }
   
   div:nth-of-type(4) {
-    background-color: gray;
+    background-color: grey;
   }
   
   div:nth-of-type(5) {
     background-color: gold;
   }
-
+  
+  
   div:nth-of-type(1) > h3 {
-    color: rgb(28, 0, 128);
+    color: rgb(28, 0,128);
   }
   
   
@@ -36,7 +38,7 @@ div:hover {
   }
   
   div:nth-of-type(4) > h3 {
-    font-family: fantasy;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   }
   
   div:nth-of-type(5) > h3 {
