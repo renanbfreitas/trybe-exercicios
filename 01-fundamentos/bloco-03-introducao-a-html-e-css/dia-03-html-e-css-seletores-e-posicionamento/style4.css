@@ -1,0 +1,54 @@
+
+div:hover {
+    border: 8px solid brown;
+  }
+  
+  div:nth-of-type(1) {
+    background-color: orange;
+  }
+  
+  div:nth-of-type(2) {
+    background-color: snow;
+  }
+  
+  div:nth-of-type(3) {
+    background-color: red;
+  }
+  
+  div:nth-of-type(4) {
+    background-color: grey;
+  }
+  
+  div:nth-of-type(5) {
+    background-color: gold;
+  }
+  
+  
+  div:nth-of-type(1) > h3 {
+    color: rgb(28, 0,128);
+  }
+  
+  
+  div:nth-of-type(2) > h3 {
+    color: rgba(0, 128, 0, 0.781) 
+  }
+  
+  div:nth-of-type(3) > h3 {
+    font-size: 18px;
+  }
+  
+  div:nth-of-type(4) > h3 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  }
+  
+  div:nth-of-type(5) > h3 {
+    font-style: monospace;
+  }
+  
+  div:nth-of-type(3) {
+    height: 90px;
+  }
+  
+  div:nth-child(odd) h3 {
+    font-style: italic
+  }

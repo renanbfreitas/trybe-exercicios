@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<!-- saved from url=(0032)http://127.0.0.1:5500/index.html -->
+<html lang="pt"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ranking</title>
+    <style>
+      h1, h3 {
+        text-align: left;
+        margin-left: 15%;
+      }
+
+      .first {
+        background-color: rgb(235, 200, 84);
+        font-size: 20px;
+        height: 50px;
+        text-align: center;
+        width: 200px;
+        display: block;
+        margin-left: 200px;
+      }
+
+      .second {
+        background-color: rgb(219, 219, 219);
+        font-size: 20px;
+        height: 50px;
+        text-align: center;
+        width: 300px;
+        display: inline-block;
+      }
+
+      .third {
+        background-color: rgb(170, 142, 106);
+        font-size: 20px;
+        height: 50px;
+        text-align: center;
+        width: 300px;
+        display: inline-block;
+      }
+
+      .um {
+display: inline-block;
+
+      }
+
+      .dois {
+display: inline-block;
+      }    
+      
+      .tres {
+display: inline-block;
+      }
+
+    </style>
+  </head>
+  <body>
+    <header>
+      <h1>Hackathon Results</h1>
+    </header>
+    <section>
+        <p class="first">1º - Equipe 1</p>
+        <p class="second">2º - Equipe 2</p>
+        <p class="third">3º - Equipe 3</p>
+    </section>
+    <section>
+      <h3>Premiação Primeiro Lugar:</h3>
+        <p class="um">| R$ 1000,00 por integrante da equipe |</p>
+        <p class="um">| Bootcamp de 2 meses com possibilidade de contratação |</p>
+    <p></p>
+      <h3>Premiação Segundo Lugar:</h3>
+        <p class="dois">| R$ 600,00 por integrante da equipe |</p>
+        <p class="dois">| Participação no processo seletivo para o Bootcamp |</p>
+      <h3>Premiação Terceiro Lugar:</h3>
+        <p class="tres">| R$ 300,00 por integrante da equipe |</p>
+        <p class="tres">| Participação no processo seletivo para o Bootcamp |</p>
+    </section>
+  <!-- Code injected by live-server -->
+<script type="text/javascript">
+	// <![CDATA[  <-- For SVG support
+	if ('WebSocket' in window) {
+		(function () {
+			function refreshCSS() {
+				var sheets = [].slice.call(document.getElementsByTagName("link"));
+				var head = document.getElementsByTagName("head")[0];
+				for (var i = 0; i < sheets.length; ++i) {
+					var elem = sheets[i];
+					var parent = elem.parentElement || head;
+					parent.removeChild(elem);
+					var rel = elem.rel;
+					if (elem.href && typeof rel != "string" || rel.length == 0 || rel.toLowerCase() == "stylesheet") {
+						var url = elem.href.replace(/(&|\?)_cacheOverride=\d+/, '');
+						elem.href = url + (url.indexOf('?') >= 0 ? '&' : '?') + '_cacheOverride=' + (new Date().valueOf());
+					}
+					parent.appendChild(elem);
+				}
+			}
+			var protocol = window.location.protocol === 'http:' ? 'ws://' : 'wss://';
+			var address = protocol + window.location.host + window.location.pathname + '/ws';
+			var socket = new WebSocket(address);
+			socket.onmessage = function (msg) {
+				if (msg.data == 'reload') window.location.reload();
+				else if (msg.data == 'refreshcss') refreshCSS();
+			};
+			if (sessionStorage && !sessionStorage.getItem('IsThisFirstTime_Log_From_LiveServer')) {
+				console.log('Live reload enabled.');
+				sessionStorage.setItem('IsThisFirstTime_Log_From_LiveServer', true);
+			}
+		})();
+	}
+	else {
+		console.error('Upgrade your browser. This Browser is NOT supported WebSocket for Live-Reloading.');
+	}
+	// ]]>
+</script>
+</body></html>
