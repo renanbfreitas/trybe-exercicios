@@ -1,0 +1,16 @@
+const AnguloA = 30;
+const AnguloB = 60;
+const AnguloC = 90;
+
+const SomaDosAngulos = AnguloA + AnguloB + AnguloC;
+const AnguloPositivo = AnguloA > 0 && AnguloB && 0 && AnguloC > 0
+
+if(AnguloPositivo){
+  if (SomaDosAngulos === 180){
+    console.log(true);
+  } else {
+    console.log(false);
+  };
+} else {
+  console.log('Erro');
+}

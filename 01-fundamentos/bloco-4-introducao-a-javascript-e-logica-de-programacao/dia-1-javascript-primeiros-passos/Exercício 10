@@ -1,0 +1,10 @@
+const custo = 50;
+const valor = 100;
+
+if (custo >= 0 && valor >= 0) {
+  const totalcusto = custo * 1.2;
+  const lucro = (valor - totalcusto) * 1000;
+  console.log(lucro);
+} else {
+  console.log("Erro");
+};
