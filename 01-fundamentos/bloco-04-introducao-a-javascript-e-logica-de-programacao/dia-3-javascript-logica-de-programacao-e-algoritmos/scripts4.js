@@ -11,5 +11,4 @@ for (let numero = 2; numero <= 50; numero += 1) {
     maiorNumeroPrimo = numero;
   }
 }
-
 console.log(maiorNumeroPrimo);
