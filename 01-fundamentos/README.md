@@ -10,3 +10,5 @@
 - No Último bloco <strong>`JavaScript ES6 - Introdução a Higher Order Functions`</strong>, aprendi a utilizá-las para implementar soluções para diversos tipos de situação. Resultando em um código mais legível, conciso e expressivo.
 
 - Tendo isso em mente, esta pasta conta com todas as atividades de aprendizagem que desenvolvi ao longo do módulo de <strong>`Fundamentos do Desenvolvimento Web`</strong> do curso da [Trybe](https://www.betrybe.com/).
+
+![html-css-javascript](https://user-images.githubusercontent.com/109007554/182003506-26215561-442a-44dd-af60-6eaa4c051590.jpg)
