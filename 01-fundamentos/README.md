@@ -1,4 +1,4 @@
-# Fundamentos do Desenvolvimento Web
+# Fundamentos do Desenvolvimento Web :hourglass_flowing_sand:
 
 - Nesse módulo aprendi no bloco 1 <strong>`Unix e Bash`</strong>, e como utilizar o terminal. 
 - Na sequência aprendi sobre <strong>`Git e GitHub`</strong>, e como utilizar seu sitema de controle de versão distribuído.
