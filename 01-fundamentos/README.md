@@ -9,4 +9,4 @@
 - No bloco 7 <strong>`JavaScript`</strong>, conhecida como ES6, ECMAScript 6 ou ES2015. 
 - No Último bloco <strong>`JavaScript ES6 - Introdução a Higher Order Functions`</strong>, aprendi a utilizá-las para implementar soluções para diversos tipos de situação. Resultando em um código mais legível, conciso e expressivo.
 
-- Tendo isso em mente, esta pasta conta com todas as atividades de aprendizagem que desenvolvi ao longo do modulo de <strong>`Fundamentos do Desenvolvimento Web`</strong> do curso da [Trybe](https://www.betrybe.com/).
+- Tendo isso em mente, esta pasta conta com todas as atividades de aprendizagem que desenvolvi ao longo do módulo de <strong>`Fundamentos do Desenvolvimento Web`</strong> do curso da [Trybe](https://www.betrybe.com/).
