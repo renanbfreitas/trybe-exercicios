@@ -2,7 +2,7 @@
 
 - Nesse módulo aprendi no bloco 1 <strong>`Unix e Bash`</strong>, e como utilizar o terminal. 
 - Na sequência aprendi sobre <strong>`Git e GitHub`</strong>, e como utilizar seu sitema de controle de versão distribuído.
-- E então no bloco 3 aprendi sobre <strong>`HTML e CSS`</strong>, e como estruturar páginas HTML estilizadas com o CSS, de uma forma muito prática e criando vários projetos. 
+- Então no bloco 3 aprendi sobre <strong>`HTML e CSS`</strong>, e como estruturar páginas HTML estilizadas com o CSS, de uma forma muito prática e criando vários projetos. 
 - Depois no bloco 4 aprendi sobre <strong>`JavaScript e Lógica de Programação`</strong>, a implementar lógica nas minhas páginas, tornando-as verdadeiramente interativas e dinâmicas! 
 - Também aprendi no bloco 5 sobre o famoso <strong>`DOM`</strong>, a estrutura que faz a ponte entre o HTML e o JavaScript, que permite interação entre os dois. 
 - No bloco 6 sobre formulários em <strong>`HTML`</strong>, que são uma forma de enviar informações para outra página do seu site ou para um servidor. 
