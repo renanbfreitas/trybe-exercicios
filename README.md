@@ -40,9 +40,9 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [X] 5-1: _JavaScript - DOM e seletores_
 - [X] 5-2: _JavaScript - Trabalhando com elementos_
 - [X] 5-3: _JavaScript - Eventos_
-- [ ] 5-4: _JavaScript - Web Storage_
+- [X] 5-4: _JavaScript - Web Storage_
 - [ ] 5-5: _[Projeto - Meme Generator]()_
-- [ ] 5-6: _[Projeto - Arte com Pixels]()_
+- [X] 5-6: _[Projeto - Arte com Pixels]()_
 - [ ] 5-7: _[Projeto - Lista de tarefas]()_
 - [ ] 5-7: _[Projeto - Adivinhe a Cor]()_
 - [ ] 5-7: _[Projeto - Carta Misteriosa]()_
@@ -71,6 +71,8 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [ ] 8-4: _JavaScript ES6 - spread operator, rest parameter, destructuring e mais_
 - [ ] 8-5: _[Projeto - Zoo functions]()_
 
+## Desenvolvimento Front-end :hourglass_flowing_sand:
+
 ##### Bloco 9: Assincronicidade & Callbacks
 
 - [ ] 9-1: _JavaScript Assíncrono e Callbacks_
@@ -83,8 +85,6 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [ ] 10-2: _Jest - Testes Assíncronos_
 - [ ] 10-3: _Jest - Simulando comportamentos_
 - [ ] 10-4: _[Projeto - Jest Assíncrono e Mocking]()_
-
-## Desenvolvimento Front-end :hourglass_flowing_sand:
 
 ##### Bloco 11: Introdução - React
 
