@@ -83,22 +83,22 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 ##### Bloco 10: Introdução - React
 
-- [ ] 11-1: _'Hello, world!' no React!_
+- [X] 11-1: _'Hello, world!' no React!_
 - [ ] 11-2: _Componentes React_
 - [ ] 11-3: _[Projeto - Sistema Solar]()_
 
 
 ##### Bloco 11: Introdução - React
 
-- [ ] 11-1: _'Hello, world!' no React!_
-- [ ] 11-2: _Componentes React_
-- [ ] 11-3: _[Projeto - Sistema Solar]()_
+- [ ] 11-1: _Componentes com estado e eventos_
+- [ ] 11-2: _Formulários no React_
+- [ ] 11-3:  _[Projeto - Tryunfo]()_
 
-##### Bloco 12: React
+##### Bloco 12: Ciclo de vida de Componentes e React Router
 
-- [ ] 12-1: _Components com estado_
-- [ ] 12-2: _Eventos e formulários no React_
-- [ ] 12-3: _[Projeto - Movie Cards Library Stateful]()_
+- [ ] 12-1: _Ciclo de vida de componentes_
+- [ ] 12-2: _React Router_
+- [ ] 12-3: _[Projeto - TrybeTunes]()_
 
 ##### Bloco 13: React
 
