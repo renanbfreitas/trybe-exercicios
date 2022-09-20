@@ -138,22 +138,21 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 ## Desenvolvimento Back-end :hourglass_flowing_sand:
 
-##### Seção 1: Introdução - Bancos de dados relacionais
+##### Seção 1: Docker: Utilizando Containers
 
-- [ ] 1-1: _Banco de dados SQL_
-- [ ] 1-2: _Encontrando dados em um banco de dados_
-- [ ] 1-3: _Filtrando dados de forma específica_
-- [ ] 1-4: _Manipulando tabelas_
-- [ ] 1-5: _[Projeto - All For One]()_
+- [ ] 1-1: _Utilizando Containers - Docker_
+- [ ] 1-2: _Manipulando Imagens no Docker_
+- [ ] 1-3: _Orquestrando Containers com Docker Compose_
+- [ ] 1-4: _[Projeto - Docker Todo-List]()_
 
-##### Seção 2: Bancos de dados relacionais
+##### Seção 2: Introdução à SQL
 
 - [ ] 2-1: _Funções mais usadas no SQL_
 - [ ] 2-2: _Descomplicando JOINs e UNIONs_
 - [ ] 2-3: _Stored Routines & Subqueries_
 - [ ] 2-4: _[Projeto - Vocabulary Booster]()_
 
-##### Seção 3: Bancos de dados relacionais
+##### Seção 3: Funções SQL, JOINs e Normalização
 
 - [ ] 3-1: _Transformando ideias em um modelo de banco de dados_
 - [ ] 3-2: _Normalização, Formas Normais e Dumps_
