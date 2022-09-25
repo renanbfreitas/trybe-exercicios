@@ -91,7 +91,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 ##### Seção 3: Componentes com Estado, Eventos e Formulários com React
 
 - [X] 3-1: _Componentes com estado e eventos_
-- [ ] 3-2: _Formulários no React_
+- [X] 3-2: _Formulários no React_
 - [ ] 3-3:  _[Projeto - Tryunfo]()_
 
 ##### Seção 4: Ciclo de vida de Componentes e React Router
