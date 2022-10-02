@@ -9,4 +9,3 @@ describe('Scoped / Nested block', () => {
 
   test('', () => console.log('2 - test'));
 });
-
