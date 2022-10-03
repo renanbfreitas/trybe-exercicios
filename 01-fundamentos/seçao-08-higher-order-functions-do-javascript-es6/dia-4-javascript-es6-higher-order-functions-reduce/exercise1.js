@@ -8,3 +8,4 @@ const arrays = [
     return arrays.reduce((acc, curr) => acc.concat(curr), []);
   }
   console.log(flatten(arrays));
+  
