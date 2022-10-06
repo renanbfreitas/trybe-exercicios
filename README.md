@@ -79,7 +79,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [X] 1-1: _JavaScript Assíncrono e Callbacks_
 - [X] 1-2: _JavaScript Assíncrono - Fetch API e async/await_
 - [X] 1-3: _Jest - Testes Assíncronos_
-- [x] 1-4: _[Projeto - Carrinho de Compras]()_ :heavy_check_mark:
+- [X] 1-4: _[Projeto - Carrinho de Compras]()_ :heavy_check_mark:
 
 ##### Seção 2: Introdução - React
 
@@ -96,13 +96,13 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 ##### Seção 4: Ciclo de vida de Componentes e React Router
 
-- [x] 4-1: _Ciclo de vida de componentes_
-- [x] 4-2: _React Router_
-- [ ] 4-3: _[Projeto - TrybeTunes]()_
+- [X] 4-1: _Ciclo de vida de componentes_
+- [X] 4-2: _React Router_
+- [X] 4-3: _[Projeto - TrybeTunes]()_ :heavy_check_mark:
 
 ##### Seção 5: Metodologias Ágeis
 
-- [ ] 5-1: _Metodologias Ágeis_
+- [X] 5-1: _Metodologias Ágeis_
 - [ ] 5-2: _[Projeto - Frontend Online Store]()_
 
 ##### Seção 6: Testes automatizados com React Testing Library
