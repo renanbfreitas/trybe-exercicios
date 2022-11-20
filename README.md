@@ -128,7 +128,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 ##### Seção 9: Context API e React Hooks
 
 - [X] 9-1: _Context API do React_
-- [ ] 9-2: _React Hooks - useState e useContext_
+- [X] 9-2: _React Hooks - useState e useContext_
 - [ ] 9-3: _React Hooks - useEffect e Hooks customizados_
 - [ ] 9-4: _[Projeto - StarWars Datatable com Context API e Hooks]()_
 
