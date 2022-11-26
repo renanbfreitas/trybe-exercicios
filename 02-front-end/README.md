@@ -26,6 +26,6 @@
 </div>   
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/109007554/182003506-26215561-442a-44dd-af60-6eaa4c051590.jpg" width="400">
+<img src="https://user-images.githubusercontent.com/109007554/204111819-bfed67cc-8cb9-4496-b6f8-fe611a889e8d.png" width="400">
 </div>
 
