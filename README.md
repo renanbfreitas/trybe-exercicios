@@ -130,7 +130,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [X] 9-1: _Context API do React_
 - [X] 9-2: _React Hooks - useState e useContext_
 - [X] 9-3: _React Hooks - useEffect e Hooks customizados_
-- [ ] 9-4: _[Projeto - StarWars Datatable com Context API e Hooks]()_
+- [X] 9-4: _[Projeto - StarWars Datatable com Context API e Hooks]()_ :heavy_check_mark:
 
 ##### Seção 10: Projeto App de Receitas 
 
