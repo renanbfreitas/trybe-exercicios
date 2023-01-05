@@ -184,11 +184,9 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [ ] 6-4: _JWT - (JSON Web Token)_
 - [ ] 6-5: _[Projeto - API de Blogs]()_
 
-##### Seção 7: Deployment
+##### Seção 7: Masterclass: Implantação de Aplicações na nuvem
 
-- [ ] 7-1: _Infraestrutura - Deploy com Heroku_
-- [ ] 7-2: _Deploy Docker & Heroku_
-- [ ] 7-3: _[Projeto - Stranger Things]()_
+- [ ] 7-1: _Infraestrutura - Deploy com Railway_
 
 ##### Seção 8: TypeScript
 
@@ -220,21 +218,15 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [ ] 11-5: _Updates Complexos - Arrays_
 - [ ] 11-6: _[Projeto - Commerce]()_
 
-##### Seção 12: MongoDB com Node.js e POO
+##### Seção 12: Api OO e NoSQL
 
-- [ ] 12-1: _Mongoose e arquitetura MSC (Camada Model)_
-- [ ] 12-2: _Mongoose e arquitetura MSC (Camada Service e Controller)_
+- [ ] 12-1: _APIs orientadas a objetos e NoSQL: POO e ODMs_
+- [ ] 12-2: _APIs orientadas a objetos e NoSQL: Herança e Abstração_
 - [ ] 12-3: _[Projeto - Car Shop]()_
 
 ##### Seção 13: Projeto - App de Delivery
 
 - [ ] 13-1: _[Projeto - API de Delivery]()_
-
-##### Seção 14: MasterClass - VPS, CI/CD
-
-- [ ] 14-1: _VPS_
-- [ ] 14-2: _Dia 2_
-
 
 ## Ciência da Computação :hourglass_flowing_sand:
 
@@ -279,5 +271,3 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [ ] 6-1: _Hashmap e Dict_
 - [ ] 6-2: _Set_
 - [ ] 6-3: _[Projeto - Restaurant Orders]()_
-
-# [...]
