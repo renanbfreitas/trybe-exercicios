@@ -140,7 +140,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 ##### Seção 1: Docker: Utilizando Containers
 
-- [ ] 1-1: _Utilizando Containers - Docker_
+- [X] 1-1: _Utilizando Containers - Docker_
 - [ ] 1-2: _Manipulando Imagens no Docker_
 - [ ] 1-3: _Orquestrando Containers com Docker Compose_
 - [ ] 1-4: _[Projeto - Docker Todo-List]()_
