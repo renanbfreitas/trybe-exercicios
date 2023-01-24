@@ -156,7 +156,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 ##### Seção 3: Funções SQL, JOINs e Normalização
 
 - [X] 3-1: _Funçoẽs mais usadas no SQL_
-- [ ] 3-2: _Descomplicando JOINS_
+- [X] 3-2: _Descomplicando JOINS_
 - [ ] 3-3: _Transformando ideias em um modelo de banco de dados_
 - [ ] 3-4: _[Projeto - One For All]()_
 
