@@ -158,7 +158,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [X] 3-1: _Funçoẽs mais usadas no SQL_
 - [X] 3-2: _Descomplicando JOINS_
 - [X] 3-3: _Transformando ideias em um modelo de banco de dados_
-- [ ] 3-4: _[Projeto - One For All]()_
+- [X] 3-4: _[Projeto - One For All]()_ :heavy_check_mark:
 
 ##### Seção 4: Introdução ao desenvolvimento Web com Node.js
 
