@@ -182,7 +182,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [X] 6-2: _ORM - Associations 1:1 e 1:N_
 - [X] 6-3: _ORM - Associations N:N e Transactions_
 - [X] 6-4: _JWT - (JSON Web Token)_
-- [ ] 6-5: _[Projeto - API de Blogs]()_
+- [X] 6-5: _[Projeto - API de Blogs]()_ :heavy_check_mark:
 
 ##### Seção 7: Masterclass: Implantação de Aplicações na nuvem
 
