@@ -186,7 +186,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 ##### Seção 7: Masterclass: Implantação de Aplicações na nuvem
 
-- [ ] 7-1: _Infraestrutura - Deploy com Railway_
+- [X] 7-1: _Infraestrutura - Deploy com Railway_
 
 ##### Seção 8: TypeScript
 
