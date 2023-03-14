@@ -193,7 +193,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [X] 8-1: _Introdução ao TypeScript_
 - [X] 8-2: _Tipagem Estática e Generics_
 - [X] 8-3: _Express com TypeScript_
-- [ ] 8-4: _[Projeto - Trybesmith]()_
+- [X] 8-4: _[Projeto - Trybesmith]()_ :heavy_check_mark:
 
 ##### Seção 9: Programação Orientada a Objetos (POO) e SOLID
 
