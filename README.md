@@ -198,7 +198,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 ##### Seção 9: Programação Orientada a Objetos (POO) e SOLID
 
 - [X] 9-1: _Introdução à Orientada a Objetos_
-- [ ] 9-2: _Herança e Interfaces_
+- [X] 9-2: _Herança e Interfaces_
 - [ ] 9-3: _Polimorfismo_
 - [ ] 9-4: _SOLID - Introdução e Princípios S, O e D_
 - [ ] 9-5: _SOLID - Princípios L e I_
