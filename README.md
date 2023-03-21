@@ -199,7 +199,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 - [X] 9-1: _Introdução à Orientada a Objetos_
 - [X] 9-2: _Herança e Interfaces_
-- [ ] 9-3: _Polimorfismo_
+- [X] 9-3: _Polimorfismo_
 - [ ] 9-4: _SOLID - Introdução e Princípios S, O e D_
 - [ ] 9-5: _SOLID - Princípios L e I_
 - [ ] 9-6: _[Projeto - Trybe and Dragons]()_
