@@ -211,7 +211,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 ##### Seção 11: Introdução ao MongoDB
 
-- [ ] 11-1: _MongoDB - Introdução_
+- [X] 11-1: _MongoDB - Introdução_
 - [ ] 11-2: _Filter Operators_
 - [ ] 11-3: _Operadores de consulta_
 - [ ] 11-4: _Updates Simples_
