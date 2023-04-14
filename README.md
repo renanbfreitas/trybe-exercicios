@@ -215,7 +215,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [X] 11-2: _Filter Operators_
 - [X] 11-3: _Operadores de consulta_
 - [X] 11-4: _Updates Simples_
-- [ ] 11-5: _Updates Complexos - Arrays_
+- [X] 11-5: _Updates Complexos - Arrays_
 - [ ] 11-6: _[Projeto - Commerce]()_
 
 ##### Seção 12: Api OO e NoSQL
