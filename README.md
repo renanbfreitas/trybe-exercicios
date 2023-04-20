@@ -220,7 +220,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 ##### Seção 12: Api OO e NoSQL
 
-- [ ] 12-1: _APIs orientadas a objetos e NoSQL: POO e ODMs_
+- [X] 12-1: _APIs orientadas a objetos e NoSQL: POO e ODMs_
 - [ ] 12-2: _APIs orientadas a objetos e NoSQL: Herança e Abstração_
 - [ ] 12-3: _[Projeto - Car Shop]()_
 
