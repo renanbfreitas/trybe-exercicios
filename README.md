@@ -222,7 +222,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 - [X] 12-1: _APIs orientadas a objetos e NoSQL: POO e ODMs_
 - [X] 12-2: _APIs orientadas a objetos e NoSQL: Herança e Abstração_
-- [ ] 12-3: _[Projeto - Car Shop]()_
+- [X] 12-3: _[Projeto - Car Shop]()_ :heavy_check_mark:
 
 ##### Seção 13: Projeto - App de Delivery
 
