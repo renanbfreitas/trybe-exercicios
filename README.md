@@ -230,44 +230,28 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 ## Ciência da Computação :hourglass_flowing_sand:
 
-##### Seção 1: Introdução à Python 
+##### Seção 14: Introdução à Python 
 
 - [ ] 1-1: _Aprendendo Python_
 - [ ] 1-2: _Entrada e saída de Dados_
-- [ ] 1-3: _Testes_
-- [ ] 1-4: _[Projeto - Job Insights]()_
 
-##### Seção 2: Padroes de Projeto
+##### Seção 15: Algoritmos
 
-- [ ] 2-1: _P.O.O em Python_
-- [ ] 2-2: _Padrões - Interator, Adapter, Strategy_
-- [ ] 2-3: _Padroẽs - Decorator, Observer, Factory_
-- [ ] 2-4: _[Projeto - Relatórios de Estoque]()_
+- [ ] 2-1: _Complexidade de Algoritimos_
+- [ ] 2-2: _Recursividade e Estratégias para solução de problemas_
+- [ ] 2-3: _Algoritimos de ordenação e busca_
+- [ ] 2-4: _[Projeto - Algoritimos]()_
 
-##### Seção 3: Redes e Raspagem de Dados
+##### Seção 16: POO + Estruturas de Dados I
 
-- [ ] 3-1: _Arquitetura de redes_
-- [ ] 3-2: _Raspagem de Dados_
-- [ ] 3-3: _Outras Ferramentas de Raspagem de dados_
-- [ ] 3-4: _[Projeto - Tech news]()_
+- [ ] 3-1: _P.O.O em Python_
+- [ ] 3-2: _Arrays_
+- [ ] 3-3: _Nó e Listas Encadeadas_
+- [ ] 3-4: _Pilhas e Filas_
+- [ ] 3-5: _[Projeto - TING - Trybe Is Not Google]()_
 
-##### Seção 4: Algoritmos
+##### Seção 17: Estrutura de Dados II
 
-- [ ] 4-1: _Complexidade de Algoritimos_
-- [ ] 4-2: _Recursividade e Estratégias para solução de problemas_
-- [ ] 4-3: _Algoritimos de ordenação e busca_
-- [ ] 4-4: _[Projeto - Algoritimos]()_
-
-##### Seção 5: Estrutura de Dados I: Arrays, Listas, Filas e Pilhas
-
-- [ ] 5-1: _Arquitetura de Computadores_
-- [ ] 5-2: _Arrays_
-- [ ] 5-3: _Nó e Listas Encadeadas_
-- [ ] 5-4: _Pilhas e Filas_
-- [ ] 5-5: _[Projeto - TING - Trybe Is Not Google]()_
-
-##### Seção 6: Estrutura de Dados II: Hashmaps e Sets
-
-- [ ] 6-1: _Hashmap e Dict_
-- [ ] 6-2: _Set_
-- [ ] 6-3: _[Projeto - Restaurant Orders]()_
+- [ ] 4-1: _Hashmap e Dict_
+- [ ] 4-2: _Set_
+- [ ] 4-3: _[Projeto - Restaurant Orders]()_
