@@ -136,7 +136,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 - [X] 10-1: _[Projeto - App de Receitas]()_ :heavy_check_mark:
 
-## Desenvolvimento Back-end :hourglass_flowing_sand:
+## Desenvolvimento Back-end :heavy_check_mark:
 
 ##### Seção 1: Docker: Utilizando Containers
 
@@ -226,7 +226,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 ##### Seção 13: Projeto - App de Delivery
 
-- [ ] 13-1: _[Projeto - API de Delivery]()_
+- [X] 13-1: _[Projeto - API de Delivery]()_ :heavy_check_mark:
 
 ## Ciência da Computação :hourglass_flowing_sand:
 
