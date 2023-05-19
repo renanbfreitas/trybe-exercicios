@@ -230,19 +230,19 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 ## Ciência da Computação :hourglass_flowing_sand:
 
-##### Seção 14: Introdução à Python 
+##### Seção 1: Introdução à Python 
 
 - [ ] 1-1: _Aprendendo Python_
 - [ ] 1-2: _Entrada e saída de Dados_
 
-##### Seção 15: Algoritmos
+##### Seção 2: Algoritmos
 
 - [ ] 2-1: _Complexidade de Algoritimos_
 - [ ] 2-2: _Recursividade e Estratégias para solução de problemas_
 - [ ] 2-3: _Algoritimos de ordenação e busca_
 - [ ] 2-4: _[Projeto - Algoritimos]()_
 
-##### Seção 16: POO + Estruturas de Dados I
+##### Seção 3: POO + Estruturas de Dados I
 
 - [ ] 3-1: _P.O.O em Python_
 - [ ] 3-2: _Arrays_
@@ -250,7 +250,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [ ] 3-4: _Pilhas e Filas_
 - [ ] 3-5: _[Projeto - TING - Trybe Is Not Google]()_
 
-##### Seção 17: Estrutura de Dados II
+##### Seção 4: Estrutura de Dados II
 
 - [ ] 4-1: _Hashmap e Dict_
 - [ ] 4-2: _Set_
