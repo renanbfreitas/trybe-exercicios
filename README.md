@@ -240,7 +240,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [X] 2-1: _Complexidade de Algoritimos_
 - [X] 2-2: _Recursividade e Estratégias para solução de problemas_
 - [X] 2-3: _Algoritimos de ordenação e busca_
-- [ ] 2-4: _[Projeto - Algoritimos]()_
+- [X] 2-4: _[Projeto - Algoritimos]()_ :heavy_check_mark:
 
 ##### Seção 3: POO + Estruturas de Dados I
 
