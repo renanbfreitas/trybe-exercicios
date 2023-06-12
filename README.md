@@ -247,7 +247,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [X] 3-1: _P.O.O em Python_
 - [X] 3-2: _Arrays_
 - [X] 3-3: _Nó e Listas Encadeadas_
-- [ ] 3-4: _Pilhas e Filas_
+- [X] 3-4: _Pilhas e Filas_
 - [ ] 3-5: _[Projeto - TING - Trybe Is Not Google]()_
 
 ##### Seção 4: Estrutura de Dados II
