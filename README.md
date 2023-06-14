@@ -228,7 +228,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 - [X] 13-1: _[Projeto - API de Delivery]()_ :heavy_check_mark:
 
-## Ciência da Computação :hourglass_flowing_sand:
+## Ciência da Computação :heavy_check_mark:
 
 ##### Seção 1: Introdução à Python 
 
