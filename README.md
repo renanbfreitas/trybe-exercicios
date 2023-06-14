@@ -248,7 +248,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [X] 3-2: _Arrays_
 - [X] 3-3: _Nó e Listas Encadeadas_
 - [X] 3-4: _Pilhas e Filas_
-- [ ] 3-5: _[Projeto - TING - Trybe Is Not Google]()_
+- [X] 3-5: _[Projeto - TING - Trybe Is Not Google]()_ :heavy_check_mark:
 
 ##### Seção 4: Estrutura de Dados II
 
